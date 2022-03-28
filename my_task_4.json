@@ -1,0 +1,48 @@
+{
+      "movie_name": "Frozen",
+      "Url": "https://www.rottentomatoes.com/m/frozen_2013",
+      "Rating": "PG",
+      "Genre": [
+            "Fantasy,",
+            "Musical,",
+            "Animation,",
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Comedy"
+      ],
+      "Language": [
+            "English"
+      ],
+      "director": [
+            "ChrisBuck",
+            "JenniferLee"
+      ],
+      "Producer": [
+            "Mike",
+            "Huang,",
+            "Peter",
+            "Del",
+            "Vecho,",
+            "Kristin",
+            "Yadamec,",
+            "Angela",
+            "Frances",
+            "Danna,",
+            "Dara",
+            "Mcgarry,",
+            "Kelly",
+            "Eisert,",
+            "James",
+            "E",
+            "Hasman,",
+            "Nathan",
+            "Curtis,",
+            "Julie",
+            "Baner,",
+            "Sheri",
+            "Patterson"
+      ],
+      "Runtime": 102
+}
